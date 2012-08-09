@@ -40,4 +40,4 @@
  * signs to enable.
  */
 # $sites['devexample.com'] = 'example.com';
-$sites['localhost.biblioteca'] = 'biblioteca';
+$sites['biblioteca.localhost'] = 'biblioteca';
